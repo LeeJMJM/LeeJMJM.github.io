@@ -3,7 +3,7 @@ title: "Traditional Fault Diagnosis Method"
 collection: publications
 category: manuscripts
 excerpt: 'This paper uses a relatively traditional method for fault mechanism analysis and manual feature design.'
-date: 2023
+date: 2023-02-01
 venue: 'IEEE Transactions on Industrial Electronics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9756052'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
