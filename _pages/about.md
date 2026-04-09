@@ -18,6 +18,6 @@ Quality Engineer, FAW-Volkswagen Automobile Co., Ltd., 08/2015-08/2018
 
 Research Interest
 ======
-Assessment of machinery health status (fault types or fault severity levels) through deep-leaning techniques<br>
+Assessment of machinery health status (fault types or fault severity levels) through deep-leaning techniques (aka, intelligent fault diagnosis)<br>
 To explain how deep-leaning models yield thrustworthy diagnosis results<br>
 Analytical methods or fenite element methods to simulate machinery faults and experimental validations
