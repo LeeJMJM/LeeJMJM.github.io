@@ -1,5 +1,5 @@
 ---
-title: "Dataset Study"
+title: "A Dataset Study"
 collection: publications
 category: manuscripts
 excerpt: 'This paper proposes a novel dataset and check the relability of data itself.'
