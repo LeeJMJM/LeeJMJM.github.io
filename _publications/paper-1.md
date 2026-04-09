@@ -1,5 +1,5 @@
 ---
-title: "Traditional Fault Diagnosis Method"
+title: "A Traditional Fault Diagnosis Method"
 collection: publications
 category: manuscripts
 excerpt: 'This paper uses a relatively traditional method for fault mechanism analysis and manual feature design.'
