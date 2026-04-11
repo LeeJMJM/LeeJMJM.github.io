@@ -14,7 +14,7 @@ B.S. in Vehicle Engineering, Harbin Institute of Technology (Weihai), 09/2011-07
 Working Experience
 ======
 Lecturer, Longyan University, 08/2025-now<br>
-Quality Engineer, FAW-Volkswagen Automobile Co., Ltd., 08/2015-08/2018
+Quality Engineer, FAW-Volkswagen Automobile Co., Ltd., 07/2015-08/2018
 
 Research Interest
 ======
