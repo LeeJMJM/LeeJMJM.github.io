@@ -2,7 +2,7 @@
 title: "A Dataset Study"
 collection: publications
 category: manuscripts
-excerpt: 'This paper proposes a novel dataset and check the relability of data itself.'
+excerpt: 'This paper proposes a novel dataset and checks the relability of data itself.'
 date: 2025-02-01
 venue: 'Mechanical Systems and Signal Processing'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S088832702400966X'
