@@ -2,7 +2,7 @@
 title: "An Intelligent Fault Diagnosis Method"
 collection: publications
 category: manuscripts
-excerpt: 'This paper integrate physical kowledge into deep-learning models for gear fault severity levels classification with better intepretability.'
+excerpt: 'This paper integrates physical kowledge into deep-learning models for gear fault severity levels classification with better intepretability.'
 date: 2025-06-01
 venue: 'IEEE Transactions on Industrial Informatics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10931774/'
