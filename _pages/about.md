@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. in Electromechanical Engineering, University of Macau, 08/2021-08/2025<br>
-M.S. in Vehicle Engineering, Harbin Institute of Technology (Weihai), 09/2019-07/2021<br>
-B.S. in Vehicle Engineering, Harbin Institute of Technology (Weihai), 09/2011-07/2015
+Ph.D. in Electromechanical Engineering, University of Macau, 08/2021–08/2025<br>
+M.S. in Vehicle Engineering, Harbin Institute of Technology (Weihai), 09/2019–07/2021<br>
+B.S. in Vehicle Engineering, Harbin Institute of Technology (Weihai), 09/2011–07/2015
 
 Working Experience
 ======
-Associate Professor, Longyan University, 05/2026-now<br>
-Lecturer, Longyan University, 08/2025-05/2026<br>
-Quality Engineer, FAW-Volkswagen Automobile Co., Ltd., 07/2015-08/2018
+Associate Professor, Longyan University, 05/2026–now<br>
+Lecturer, Longyan University, 08/2025–05/2026<br>
+Quality Engineer, FAW-Volkswagen Automobile Co., Ltd., 07/2015–08/2018
 
 Research Interest
 ======
