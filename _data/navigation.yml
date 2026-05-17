@@ -11,7 +11,8 @@ main:
   - title: "Selected Publications"
     url: /publications/
 
-  - title: "Group Events"
+  # - title: "Group Events"
+    - title: "Talks"
    url: /talks/
 
   # - title: "Teaching"
