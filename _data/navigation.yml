@@ -12,8 +12,8 @@ main:
     url: /publications/
 
   # - title: "Group Events"
-    - title: "Talks"
-   url: /talks/
+    # - title: "Talks"
+   # url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/
