@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Group Events"
-   url: /talks/    
+   url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/
     
   - title: "Interesting Moments"
     url: /portfolio/
