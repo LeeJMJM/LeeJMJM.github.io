@@ -11,11 +11,11 @@ main:
   - title: "Selected Publications"
     url: /publications/
 
-  - title: "Group Events (NO)"
+  - title: "Group Events"
     url: /talks/    
 
-  - title: "Group Events"
-    url: /teaching/
+  # - title: "Group Events"
+  #   url: /teaching/
     
   - title: "Interesting Moments"
     url: /portfolio/
