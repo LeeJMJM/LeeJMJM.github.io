@@ -14,4 +14,5 @@ Fault diagnosis for rotating machinery has always been a hot research topic in b
 <br/>
 Recently, much attention has been paid to integrating prior knowledge derived from studies of fault mechanisms and signal processing into IFD models. This integration is effective and enlightening. However, prior knowledge and integration techniques are diverse and not systematic. Therefore, we provided a clear taxonomy and an in-depth discussion at the end of this paper to support the development and application of prior knowledge integrated IFD.
 <br/>
+<br/>
 <img src='/images/knowledge integration.jpg'>
