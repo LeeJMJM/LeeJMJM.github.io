@@ -13,8 +13,8 @@ B.S. in Vehicle Engineering, Harbin Institute of Technology (Weihai), 09/2011–
 
 Working Experience
 ======
-Associate Professor, Longyan University, 05/2026–now<br>
-Lecturer, Longyan University, 08/2025–05/2026<br>
+Associate Professor, Longyan University, 03/2026–now<br>
+Lecturer, Longyan University, 08/2025–03/2026<br>
 Quality Engineer, FAW-Volkswagen Automobile Co., Ltd., 07/2015–08/2018
 
 Research Interest
